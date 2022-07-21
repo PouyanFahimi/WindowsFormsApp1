@@ -54,7 +54,7 @@ namespace WindowsFormsApp1
                 }
                 catch
                 {
-                    MessageBox.Show("صف خالی میباشد");
+                    MessageBox.Show("The queue is empty");
                 }
              
             }
